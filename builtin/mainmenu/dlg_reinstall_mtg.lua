@@ -11,7 +11,7 @@
 
 local SETTING_NAME = "no_mtg_notification"
 
-function check_reinstall_mtg(parent)
+function check_reinstall_mtg()
 	-- used to be in minetest.conf
 	if core.settings:get_bool(SETTING_NAME) then
 		cache_settings:set_bool(SETTING_NAME, true)
@@ -19,14 +19,14 @@ function check_reinstall_mtg(parent)
 	end
 
 	if cache_settings:get_bool(SETTING_NAME) then
-		return parent
+		return
 	end
 
 	local games = core.get_games()
 	for _, game in ipairs(games) do
 		if game.id == "minetest" then
 			cache_settings:set_bool(SETTING_NAME, true)
-			return parent
+			return
 		end
 	end
 
@@ -40,16 +40,16 @@ function check_reinstall_mtg(parent)
 	end
 	if not mtg_world_found then
 		cache_settings:set_bool(SETTING_NAME, true)
-		return parent
+		return
 	end
 
+	local maintab = ui.find_by_name("maintab")
+
 	local dlg = create_reinstall_mtg_dlg()
-	dlg:set_parent(parent)
-	parent:hide()
+	dlg:set_parent(maintab)
+	maintab:hide()
 	dlg:show()
 	ui.update()
-
-	return dlg
 end
 
 local function get_formspec(dialogdata)
@@ -74,22 +74,22 @@ end
 
 local function buttonhandler(this, fields)
 	if fields.reinstall then
-		local parent = this.parent
-
 		-- Don't set "no_mtg_notification" here so that the dialog will be shown
 		-- again if downloading MTG fails for whatever reason.
 		this:delete()
 
+		local maintab = ui.find_by_name("maintab")
+
 		local dlg = create_contentdb_dlg(nil, "minetest/minetest")
-		dlg:set_parent(parent)
-		parent:hide()
+		dlg:set_parent(maintab)
+		maintab:hide()
 		dlg:show()
 
 		return true
 	end
 
 	if fields.dismiss then
-		cache_settings:set_bool(SETTING_NAME, true)
+		cache_settings:set_bool("no_mtg_notification", true)
 		this:delete()
 		return true
 	end

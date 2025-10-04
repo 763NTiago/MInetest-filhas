@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------
 -- Localize functions to avoid table lookups (better performance).
-local string_sub, string_find, string_rep = string.sub, string.find, string.rep
+local string_sub, string_find = string.sub, string.find
 local math = math
 
 --------------------------------------------------------------------------------
@@ -179,7 +179,7 @@ function dump(value, indent)
 		write(newline)
 
 		local function write_entry(k, v)
-			write(string_rep(indent, level))
+			write(indent:rep(level))
 			write("[")
 			write_value(k, level + 1)
 			write("] = ")
@@ -201,7 +201,7 @@ function dump(value, indent)
 		for _, k in ipairs(keys.string) do
 			local v = val[k]
 			if is_valid_identifier(k) then
-				write(string_rep(indent, level))
+				write(indent:rep(level))
 				write(k)
 				write(" = ")
 				write_value(v, level + 1)
@@ -219,7 +219,7 @@ function dump(value, indent)
 		end
 		if #keys.number == len then -- table is a list
 			for _, v in ipairs(tbl) do
-				write(string_rep(indent, level))
+				write(indent:rep(level))
 				write_value(v, level + 1)
 				write(",")
 				write(newline)
@@ -238,7 +238,7 @@ function dump(value, indent)
 			end
 		end
 
-		write(string_rep(indent, level - 1))
+		write(indent:rep(level - 1))
 		write("}")
 	end
 	write_value(value, 1)
@@ -853,22 +853,22 @@ Intended to be used in chat command parameter parsing.
 
 Parameters:
 * x, y, z: Parsed x, y, and z coordinates as strings
-* relative_to: Optional position vector as reference point
+* relative_to: Position to which to compare the position
 
 Syntax of x, y and z:
-* "<number>": use as number
-* "~<number>": use <number> + reference point on this axis
-* "~": use reference point on this axis
+* "<number>": return as number
+* "~<number>": return <number> + player position on this axis
+* "~": return player position on this axis
 
-Returns: a vector or nil for invalid input
+Returns: a vector or nil for invalid input or if player does not exist
 ]]
 function core.parse_coordinates(x, y, z, relative_to)
 	if not relative_to then
 		x, y, z = tonumber(x), tonumber(y), tonumber(z)
-		return x and y and z and vector.new(x, y, z)
+		return x and y and z and { x = x, y = y, z = z }
 	end
 	local rx = core.parse_relative_number(x, relative_to.x)
 	local ry = core.parse_relative_number(y, relative_to.y)
 	local rz = core.parse_relative_number(z, relative_to.z)
-	return rx and ry and rz and vector.new(rx, ry, rz)
+	return rx and ry and rz and { x = rx, y = ry, z = rz }
 end

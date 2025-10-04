@@ -1,0 +1,8 @@
+nohup: ignorando entrada
+2025-09-02 22:18:22: [Main]: World 'filhas' not available. Available worlds:
+2025-09-02 22:18:22: [Main]: 	Filhas		/home/taisisis/luanti/bin/../worlds/filhas
+2025-09-02 22:18:22: [Main]: Automatically selecting world at [/home/taisisis/luanti/bin/../worlds/filhas]
+2025-09-02 22:18:22: ACTION[Main]: [MOD] Animalia [0.6] loaded
+2025-09-02 22:18:23: ACTION[Main]: Server: Shutting down
+terminate called after throwing an instance of 'DatabaseException'
+  what():  Failed to commit SQLite3 transaction: cannot commit transaction - SQL statements in progress

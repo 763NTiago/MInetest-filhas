@@ -353,7 +353,7 @@ function core.item_place(itemstack, placer, pointed_thing, param2)
 	return itemstack, nil
 end
 
-function core.item_secondary_use(itemstack, user)
+function core.item_secondary_use(itemstack, placer)
 	return itemstack
 end
 
@@ -390,7 +390,7 @@ function core.item_pickup(itemstack, picker, pointed_thing, ...)
 		end
 	end
 
-	-- Pick up item
+	-- Pickup item.
 	local inv = picker and picker:get_inventory()
 	if inv then
 		return inv:add_item("main", itemstack)
@@ -639,7 +639,6 @@ core.nodedef_default = {
 	on_drop = redef_wrapper(core, 'item_drop'), -- core.item_drop
 	on_pickup = redef_wrapper(core, 'item_pickup'), -- core.item_pickup
 	on_use = nil,
-	after_use = nil,
 	can_dig = nil,
 
 	on_punch = redef_wrapper(core, 'node_punch'), -- core.node_punch
@@ -741,16 +740,16 @@ core.noneitemdef_default = {  -- This is used for the hand and unknown items
 --
 
 local get_node_raw = core.get_node_raw
-local get_name_from_content_id = core.get_name_from_content_id
+core.get_node_raw = nil
 
 function core.get_node(pos)
 	local content, param1, param2 = get_node_raw(pos.x, pos.y, pos.z)
-	return {name = get_name_from_content_id(content), param1 = param1, param2 = param2}
+	return {name = core.get_name_from_content_id(content), param1 = param1, param2 = param2}
 end
 
 function core.get_node_or_nil(pos)
 	local content, param1, param2, pos_ok = get_node_raw(pos.x, pos.y, pos.z)
 	return pos_ok and
-			{name = get_name_from_content_id(content), param1 = param1, param2 = param2}
+			{name = core.get_name_from_content_id(content), param1 = param1, param2 = param2}
 			or nil
 end
