@@ -1,0 +1,1111 @@
+
+
+-------------
+  Separator
+-------------
+
+2025-06-29 17:19:52: ERROR[Main]: RecursiveDelete: Failed to delete file C:\Game\luanti-5.12.0-win64\games\mineclonia
+2025-06-29 17:20:05: ACTION[Main]: Installed package to C:\Game\luanti-5.12.0-win64\games\mineclonia
+2025-06-29 17:20:29: ACTION[ServerStart]: [mcl_villages]: World was upgraded or is pristine.
+2025-06-29 17:21:17: ACTION[ServerStart]: World at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-06-29 17:21:17: ACTION[ServerStart]: Server for gameid="mineclonia" listening on 127.0.0.1:60663.
+2025-06-29 17:21:31: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 50ms
+2025-06-29 17:21:48: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-06-29 17:22:01: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-06-29 17:22:17: WARNING[Server]: ServerEnvironment::deactivateFarObjects(): id=371 m_static_exists=true but static data doesn't actually exist in (-6,-2,-1)
+2025-06-29 17:22:17: WARNING[Server]: StaticObjectList::remove(): id=371 not found
+2025-06-29 17:22:17: WARNING[Server]: ServerEnvironment::deactivateFarObjects(): id=377 m_static_exists=true but static data doesn't actually exist in (-8,-1,1)
+2025-06-29 17:22:17: WARNING[Server]: StaticObjectList::remove(): id=377 not found
+2025-06-29 17:22:17: WARNING[Server]: ServerEnvironment::deactivateFarObjects(): id=378 m_static_exists=true but static data doesn't actually exist in (-8,-1,1)
+2025-06-29 17:22:17: WARNING[Server]: StaticObjectList::remove(): id=378 not found
+2025-06-29 17:22:17: WARNING[Server]: ServerEnvironment::deactivateFarObjects(): id=379 m_static_exists=true but static data doesn't actually exist in (-8,-1,2)
+2025-06-29 17:22:17: WARNING[Server]: StaticObjectList::remove(): id=379 not found
+2025-06-29 17:22:17: WARNING[Server]: ServerEnvironment::deactivateFarObjects(): id=380 m_static_exists=true but static data doesn't actually exist in (-8,-2,2)
+2025-06-29 17:22:17: WARNING[Server]: StaticObjectList::remove(): id=380 not found
+2025-06-29 17:22:23: WARNING[Server]: ServerEnvironment::deactivateFarObjects(): id=418 m_static_exists=true but static data doesn't actually exist in (11,-2,6)
+2025-06-29 17:22:23: WARNING[Server]: StaticObjectList::remove(): id=418 not found
+2025-06-29 17:22:23: WARNING[Server]: ServerEnvironment::deactivateFarObjects(): id=419 m_static_exists=true but static data doesn't actually exist in (12,-2,6)
+2025-06-29 17:22:23: WARNING[Server]: StaticObjectList::remove(): id=419 not found
+2025-06-29 17:22:23: WARNING[Server]: ServerEnvironment::deactivateFarObjects(): id=420 m_static_exists=true but static data doesn't actually exist in (9,-1,10)
+2025-06-29 17:22:23: WARNING[Server]: StaticObjectList::remove(): id=420 not found
+2025-06-29 17:22:23: WARNING[Server]: ServerEnvironment::deactivateFarObjects(): id=421 m_static_exists=true but static data doesn't actually exist in (7,-1,12)
+2025-06-29 17:22:23: WARNING[Server]: StaticObjectList::remove(): id=421 not found
+2025-06-29 17:23:16: ACTION[Server]: singleplayer granted (announce, ban, basic_privs, bring, debug, fast, fly, give, help_reveal, interact, kick, maphack, noclip, password, privs, protection_bypass, rollback, server, settime, shout, teleport, weather_manager) privileges to singleplayer
+2025-06-29 17:23:56: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 68ms
+2025-06-29 17:23:56: [Server]: [mcl_craftguide] not saving empty progress for player 'singleplayer'
+2025-06-29 17:23:56: ACTION[Server]: singleplayer leaves game. List of players: 
+2025-06-29 17:23:57: ACTION[ServerStop]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2025-06-29 17:56:23: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-06-29 17:57:10: ERROR[Main]: Não foi possível resolver o endereço:Este host n�o � conhecido. 
+2025-06-29 17:57:36: ERROR[Main]: Erro de conexão (tempo excedido).
+2025-06-29 18:00:18: ERROR[Main]: Acesso negado. Razão:Nome não registrado. Para criar uma conta neste servidor, clique em 'Registrar'
+2025-06-29 18:01:31: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-29 18:01:38: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-06-29 18:02:05: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 115ms
+2025-06-29 18:03:41: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-06-29 18:03:55: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-29 18:03:59: ERROR[Main]: Acesso negado. Razão:This server has experienced an internal error. You will now be disconnected.
+2025-06-29 18:06:44: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-29 18:12:02: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-06-29 18:12:15: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-29 18:12:20: ERROR[Main]: Acesso negado. Razão:This server has experienced an internal error. You will now be disconnected.
+2025-06-29 18:15:48: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-29 18:21:03: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-06-29 18:21:18: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-29 18:41:40: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-06-29 18:41:57: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-29 18:53:40: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-06-29 19:02:47: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-29 19:07:03: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-06-29 19:07:16: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-29 19:50:38: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-29 20:48:55: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 684ms
+2025-06-29 20:51:32: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 73ms
+2025-06-29 20:54:31: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 167ms
+
+
+-------------
+  Separator
+-------------
+
+2025-06-29 21:08:19: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-06-29 21:08:31: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 225ms
+2025-06-29 21:08:56: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-29 21:16:05: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-06-29 21:23:56: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-29 21:39:41: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-06-29 21:43:18: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+
+
+-------------
+  Separator
+-------------
+
+2025-06-29 21:57:37: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-06-29 21:57:49: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-30 00:53:20: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 426ms
+2025-06-30 11:02:04: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 55ms
+2025-06-30 13:03:21: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 89ms
+2025-06-30 13:03:29: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 57ms
+2025-06-30 13:04:35: ERROR[Main]: Acesso negado. Razão:Nome não registrado. Para criar uma conta neste servidor, clique em 'Registrar'
+2025-06-30 13:04:47: ERROR[Main]: Acesso negado. Razão:Senha inválida
+2025-06-30 13:05:21: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-30 13:08:15: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-06-30 13:08:35: ERROR[Main]: Erro de conexão (tempo excedido).
+2025-06-30 13:08:51: ERROR[Main]: Erro de conexão (tempo excedido).
+2025-06-30 13:12:32: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-30 13:30:49: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-06-30 13:42:22: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-30 13:45:24: ERROR[Main]: Erro de conexão (tempo excedido).
+2025-06-30 13:48:13: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-30 13:53:11: ERROR[Main]: Acesso negado. Razão:Senha inválida
+2025-06-30 13:53:21: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-30 14:33:06: ERROR[Main]: Acesso negado. Razão:
+2025-06-30 14:33:06: ERROR[Main]: Cannot create new player called 'Tiago'. Another account called 'tiago' is already registered. Please check the spelling if it's your account or use a different nickname.
+2025-06-30 14:33:18: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-30 14:35:21: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-30 14:41:49: ERROR[Main]: Acesso negado. Razão:Senha inválida
+2025-06-30 14:41:56: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-30 14:44:49: ERROR[Main]: Acesso negado. Razão:This server has experienced an internal error. You will now be disconnected.
+2025-06-30 14:48:10: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-30 14:52:52: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-06-30 14:58:05: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-30 15:15:23: ERROR[Main]: generateImagePart(): Could not load image "armadura_preta_pintura.png" while building texture; Creating a dummy image
+2025-06-30 15:15:23: ERROR[Main]: generateImagePart(): Could not load image "armadura_preta_pintura.png" while building texture; Creating a dummy image
+2025-06-30 15:15:23: ERROR[Main]: generateImagePart(): Could not load image "armadura_preta_pintura.png" while building texture; Creating a dummy image
+2025-06-30 15:15:23: ERROR[Main]: generateImagePart(): Could not load image "armadura_preta_pintura.png" while building texture; Creating a dummy image
+2025-06-30 15:24:59: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-06-30 15:25:14: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-30 15:34:13: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-06-30 15:34:23: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-30 15:37:48: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-06-30 15:37:59: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-30 15:39:37: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 64ms
+2025-06-30 15:48:29: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-06-30 15:48:49: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-30 16:15:27: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-06-30 16:15:54: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-30 16:20:27: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-06-30 16:20:48: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-06-30 16:45:05: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-06-30 16:49:28: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 88ms
+2025-06-30 17:09:42: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-06-30 17:37:52: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-06-30 17:38:08: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-06-30 17:38:58: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 217ms
+
+
+-------------
+  Separator
+-------------
+
+2025-06-30 19:38:06: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-06-30 19:38:16: WARNING[Main]: GenericCAO::addToScene(): Model mcl_armor_character.b3d is missing 1 more texture(s), this is deprecated.
+2025-06-30 19:41:34: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-06-30 19:42:04: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-06-30 19:56:38: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-06-30 19:58:18: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-06-30 20:21:07: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 118ms
+2025-06-30 20:35:05: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 615ms
+2025-06-30 20:35:05: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-06-30 20:35:06: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 162ms
+2025-06-30 20:35:33: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-06-30 22:11:23: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 133ms
+2025-07-01 14:46:24: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 218ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-01 21:09:36: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-01 21:10:19: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-07-01 21:58:14: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 59ms
+2025-07-01 21:58:31: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 88ms
+2025-07-01 23:02:45: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 123ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-03 23:17:07: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-03 23:27:08: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-07-04 00:10:46: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 70ms
+2025-07-04 00:25:26: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-04 00:25:53: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-07-04 00:42:54: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 66ms
+2025-07-04 00:47:57: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 87ms
+2025-07-04 00:48:06: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 69ms
+2025-07-04 02:22:02: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_strider.b3d is missing 1 more texture(s), this is deprecated.
+2025-07-04 02:47:48: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 50ms
+2025-07-04 02:47:50: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 51ms
+2025-07-04 02:58:58: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 78ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-06 00:59:07: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-06 00:59:29: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-07-06 01:54:21: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-06 01:54:51: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-07-06 02:25:19: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-07-06 03:10:53: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 70ms
+2025-07-06 03:17:05: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 77ms
+2025-07-06 03:17:07: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 77ms
+2025-07-06 03:19:38: WARNING[Main]: GenericCAO::addToScene(): Model mcl_armor_character.b3d is missing 1 more texture(s), this is deprecated.
+
+
+-------------
+  Separator
+-------------
+
+2025-07-06 21:05:37: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-06 21:06:12: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-07-06 21:12:09: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 92ms
+2025-07-06 21:20:49: WARNING[Main]: GenericCAO::addToScene(): Model mcl_armor_character.b3d is missing 1 more texture(s), this is deprecated.
+2025-07-06 21:37:16: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 58ms
+2025-07-06 21:54:32: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 348ms
+2025-07-06 21:54:32: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-06 21:54:59: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-07-06 23:40:30: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 212ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-09 19:06:25: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-09 19:06:54: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-07-09 19:09:07: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 102ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-09 19:09:10: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-09 19:09:21: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 2087ms
+2025-07-09 19:09:23: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-07-09 19:09:26: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 106ms
+2025-07-09 21:39:11: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 56ms
+2025-07-09 23:15:38: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 1365ms
+2025-07-09 23:15:47: WARNING[Main]: GenericCAO::addToScene(): Model mcl_armor_character.b3d is missing 1 more texture(s), this is deprecated.
+
+
+-------------
+  Separator
+-------------
+
+2025-07-09 23:26:22: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-09 23:26:33: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-07-10 00:01:30: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 50ms
+2025-07-10 00:01:31: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 54ms
+2025-07-10 01:11:15: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 82ms
+2025-07-10 01:39:18: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-10 08:32:41: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-10 08:33:05: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+
+
+-------------
+  Separator
+-------------
+
+2025-07-10 14:19:18: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-10 16:38:06: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 489ms
+2025-07-10 16:38:06: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 146ms
+2025-07-10 17:17:49: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 61ms
+2025-07-10 21:21:58: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 124ms
+2025-07-10 21:22:09: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-07-10 21:51:32: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-07-10 23:14:59: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 70ms
+2025-07-10 23:15:50: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 88ms
+2025-07-11 09:55:43: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 740ms
+2025-07-11 09:56:23: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 128ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-11 10:25:47: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-11 10:26:09: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-07-11 10:26:47: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 174ms
+2025-07-11 11:43:14: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 177ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-11 12:19:42: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-11 12:20:16: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-07-11 12:40:38: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-11 12:41:01: ERROR[Main]: Acesso negado. Razão:This server has experienced an internal error. You will now be disconnected.
+2025-07-11 12:41:14: ERROR[Main]: Acesso negado. Razão:This server has experienced an internal error. You will now be disconnected.
+2025-07-11 12:53:17: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-11 13:23:11: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-11 13:34:15: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-11 13:34:26: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 212ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-11 17:02:06: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-11 17:02:42: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-07-11 17:57:52: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 224ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-11 20:41:56: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-11 20:42:28: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-07-11 21:28:18: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-07-11 21:48:32: WARNING[Main]: GenericCAO::addToScene(): Model mcl_armor_character.b3d is missing 1 more texture(s), this is deprecated.
+2025-07-11 21:59:51: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 57ms
+2025-07-11 22:45:31: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 187ms
+2025-07-11 22:45:32: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 94ms
+2025-07-11 23:17:30: WARNING[Main]: GUIInventoryList::draw(): The inventory location "detached:mobs_mc:skeleton_horse:15" doesn't exist
+2025-07-11 23:17:36: WARNING[Main]: GUIInventoryList::draw(): The inventory location "detached:mobs_mc:skeleton_horse:15" doesn't exist
+2025-07-11 23:17:39: WARNING[Main]: GUIInventoryList::draw(): The inventory location "detached:mobs_mc:skeleton_horse:15" doesn't exist
+2025-07-11 23:17:45: WARNING[Main]: GUIInventoryList::draw(): The inventory location "detached:mobs_mc:skeleton_horse:15" doesn't exist
+2025-07-11 23:19:14: WARNING[Main]: GUIInventoryList::draw(): The inventory location "detached:mobs_mc:skeleton_horse:15" doesn't exist
+2025-07-11 23:19:21: WARNING[Main]: GUIInventoryList::draw(): The inventory location "detached:mobs_mc:skeleton_horse:15" doesn't exist
+2025-07-11 23:52:04: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_strider.b3d is missing 1 more texture(s), this is deprecated.
+2025-07-12 00:44:35: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-07-12 01:15:18: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 64ms
+2025-07-12 01:15:18: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 629ms
+2025-07-12 01:15:19: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 91ms
+2025-07-12 01:15:19: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 67ms
+2025-07-12 01:15:20: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 102ms
+2025-07-12 01:40:07: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 119ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-12 16:51:14: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-12 18:47:07: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 286ms
+2025-07-12 19:02:06: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 58ms
+2025-07-12 19:02:07: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 63ms
+2025-07-12 20:34:58: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 215ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-12 21:17:02: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-12 21:17:19: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-07-12 21:47:50: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 126ms
+2025-07-12 21:47:53: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 65ms
+2025-07-12 21:51:29: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 95ms
+2025-07-12 22:07:31: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 289ms
+2025-07-12 22:07:31: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-12 22:07:32: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 106ms
+2025-07-12 22:07:55: ERROR[Main]: Acesso negado. Razão:Senha inválida
+2025-07-12 23:22:50: WARNING[Main]: GenericCAO::addToScene(): Model mcl_armor_character.b3d is missing 1 more texture(s), this is deprecated.
+2025-07-12 23:26:52: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 68ms
+2025-07-12 23:29:54: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 124ms
+2025-07-13 00:11:12: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 114ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-13 01:17:29: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-13 01:17:51: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-07-13 01:43:20: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-13 01:50:43: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 208ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-13 14:48:27: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-13 14:49:36: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-07-13 15:50:42: ERROR[CurlFetch]: HTTPFetch for https://servers.luanti.org/list?proto_version_min=37&proto_version_max=48 failed: Timeout was reached (timeout = 20000ms)
+2025-07-13 16:46:50: WARNING[Main]: GenericCAO::addToScene(): Model mcl_armor_character.b3d is missing 1 more texture(s), this is deprecated.
+2025-07-13 16:50:07: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 77ms
+2025-07-13 17:05:44: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 209ms
+2025-07-13 17:05:44: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-13 17:06:11: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-07-13 17:45:03: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-07-13 19:08:02: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 52ms
+2025-07-13 20:38:10: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 95ms
+2025-07-13 20:39:56: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 110ms
+2025-07-13 20:52:01: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 57ms
+2025-07-13 20:52:02: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 64ms
+2025-07-13 21:05:49: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 94ms
+2025-07-13 21:05:50: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 69ms
+2025-07-13 21:20:52: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 86ms
+2025-07-13 21:37:29: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 61ms
+2025-07-14 00:22:59: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 50ms
+2025-07-14 00:22:59: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 93ms
+2025-07-14 00:24:53: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-14 09:22:25: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 619ms
+2025-07-14 09:22:25: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 57ms
+2025-07-14 09:22:26: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 189ms
+2025-07-14 09:22:39: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 143ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-14 09:57:45: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-14 09:57:50: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 214ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-14 11:20:18: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-14 11:20:20: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 217ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-15 15:51:28: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-15 16:52:29: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-15 17:17:09: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-15 17:21:59: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-15 17:26:50: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-15 17:26:56: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-07-15 18:36:30: ERROR[CurlFetch]: HTTPFetch for https://servers.luanti.org/list?proto_version_min=37&proto_version_max=48 failed: Timeout was reached (timeout = 20000ms)
+2025-07-15 18:36:30: ERROR[CurlFetch]: HTTPFetch for https://servers.luanti.org/geoip failed: Timeout was reached (timeout = 20000ms)
+2025-07-16 01:34:20: ERROR[Main]: Erro de conexão (tempo excedido).
+2025-07-16 02:47:31: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-16 02:55:59: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-16 02:56:28: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-07-15 23:07:14: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-07-15 23:17:34: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_strider.b3d is missing 1 more texture(s), this is deprecated.
+2025-07-16 00:14:02: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 68ms
+2025-07-16 00:14:03: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 58ms
+2025-07-16 00:14:04: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 96ms
+2025-07-16 00:14:06: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 72ms
+2025-07-16 02:06:53: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-16 02:06:53: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 79ms
+2025-07-16 02:06:53: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 89ms
+2025-07-16 03:50:58: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-16 10:08:59: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-16 11:59:18: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-16 15:18:14: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-16 17:39:19: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-16 18:17:45: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-16 18:43:17: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-16 18:43:21: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-07-16 18:43:31: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 208ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-17 16:14:04: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-17 16:14:04: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-17 16:14:16: ERROR[CurlFetch]: HTTPFetch for https://servers.luanti.org/list?proto_version_min=37&proto_version_max=48 failed: Timeout was reached (timeout = 20000ms)
+2025-07-17 16:16:20: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-07-17 16:18:46: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-07-17 16:28:49: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-07-17 16:34:25: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-07-17 16:34:46: ERROR[CurlFetch]: HTTPFetch for https://servers.luanti.org/list?proto_version_min=37&proto_version_max=48 failed: Timeout was reached (timeout = 20000ms)
+2025-07-17 18:35:17: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 52ms
+2025-07-17 19:51:27: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 87ms
+2025-07-17 19:51:45: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 227ms
+2025-07-17 19:51:46: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 211ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-18 19:16:01: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-18 19:16:10: ERROR[Main]: Acesso negado. Razão:Senha inválida
+2025-07-18 19:16:17: ERROR[Main]: Acesso negado. Razão:Senha inválida
+2025-07-18 19:25:59: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-07-18 19:39:11: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 74ms
+2025-07-18 19:39:13: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 59ms
+2025-07-18 19:39:14: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 206ms
+2025-07-18 19:40:17: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 216ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-18 20:35:46: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-18 20:36:00: ERROR[Main]: Acesso negado. Razão:Outro cliente está conectado com este nome. Se o seu cliente fechou inesperadamente, tente novamente em um minuto.
+2025-07-18 20:36:23: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 1622ms
+2025-07-18 20:39:58: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-07-18 21:00:03: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 50ms
+2025-07-18 21:03:03: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 69ms
+2025-07-18 21:33:49: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-18 21:33:49: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 62ms
+2025-07-18 21:33:49: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 55ms
+2025-07-18 22:21:04: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-19 07:37:50: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-19 19:17:11: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 188ms
+2025-07-19 19:17:11: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-19 19:17:12: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 99ms
+2025-07-19 19:17:19: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-07-19 20:34:48: WARNING[Main]: GenericCAO::addToScene(): Model mcl_armor_character.b3d is missing 1 more texture(s), this is deprecated.
+2025-07-19 21:39:07: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 64ms
+2025-07-19 21:39:10: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 62ms
+2025-07-20 11:01:38: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-20 18:54:26: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-07-20 19:23:09: ERROR[Main]: Erro de conexão (tempo excedido).
+2025-07-20 19:45:09: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-20 20:06:28: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-20 20:07:02: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 82ms
+2025-07-20 20:07:11: ERROR[Main]: generateImagePart(): Could not load image "mcl_mobitems_lead.png" while building texture; Creating a dummy image
+2025-07-20 20:30:37: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-20 20:31:00: ERROR[Main]: generateImagePart(): Could not load image "mcl_mobitems_lead.png" while building texture; Creating a dummy image
+2025-07-20 20:40:00: ERROR[Main]: RecursiveDelete: Failed to delete file C:\Game\luanti-5.12.0-win64\mods\creatura
+2025-07-20 20:40:00: ACTION[Main]: Installed package to C:\Game\luanti-5.12.0-win64\mods\creatura
+2025-07-20 20:40:03: ERROR[Main]: RecursiveDelete: Failed to delete file C:\Game\luanti-5.12.0-win64\mods\animalia
+2025-07-20 20:40:03: ACTION[Main]: Installed package to C:\Game\luanti-5.12.0-win64\mods\animalia
+2025-07-20 20:41:36: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 84ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-20 21:00:30: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-20 21:00:48: ERROR[Main]: Erro de conexão (tempo excedido).
+2025-07-20 21:01:25: ERROR[Main]: generateImagePart(): Could not load image "mcl_mobitems_lead.png" while building texture; Creating a dummy image
+2025-07-20 21:01:25: WARNING[Main]: GenericCAO::addToScene(): Model mcl_armor_character.b3d is missing 1 more texture(s), this is deprecated.
+2025-07-20 21:01:41: ERROR[Main]: Erro de conexão (tempo excedido).
+2025-07-20 21:04:11: ERROR[Main]: generateImagePart(): Could not load image "mcl_mobitems_lead.png" while building texture; Creating a dummy image
+2025-07-20 21:09:50: ERROR[Main]: Erro de conexão (tempo excedido).
+2025-07-20 21:10:07: ERROR[Main]: Erro de conexão (tempo excedido).
+2025-07-20 21:11:36: ERROR[Main]: generateImagePart(): Could not load image "mcl_mobitems_lead.png" while building texture; Creating a dummy image
+2025-07-20 21:12:04: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+
+
+-------------
+  Separator
+-------------
+
+2025-07-20 21:45:48: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-20 21:46:11: ERROR[Main]: Acesso negado. Razão:Nome não registrado. Para criar uma conta neste servidor, clique em 'Registrar'
+2025-07-20 21:47:01: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 197ms
+2025-07-20 21:57:23: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-20 22:06:03: ERROR[Main]: Erro de conexão (tempo excedido).
+2025-07-20 22:10:56: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-20 22:20:06: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-20 22:36:10: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 78ms
+2025-07-20 22:37:35: ERROR[Main]: Acesso negado. Razão:Nome não registrado. Para criar uma conta neste servidor, clique em 'Registrar'
+2025-07-20 22:37:46: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-07-20 22:39:43: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-20 22:40:22: ERROR[Main]: generateImagePart(): Could not load image "character.png" while building texture; Creating a dummy image
+2025-07-20 22:41:26: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-20 22:44:37: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-20 22:45:41: ERROR[Main]: Acesso negado. Razão:Nome não registrado. Para criar uma conta neste servidor, clique em 'Registrar'
+2025-07-20 22:46:35: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 68ms
+2025-07-20 23:07:45: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 51ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-20 23:37:28: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-20 23:37:51: ERROR[Main]: generateImagePart(): Could not load image "mcl_compass_compass_03.png" while building texture; Creating a dummy image
+2025-07-20 23:37:51: ERROR[Main]: generateImagePart(): Could not load image "mcl_armor_inv_helmet_diamond.png" while building texture; Creating a dummy image
+2025-07-20 23:37:51: ERROR[Main]: generateImagePart(): Could not load image "helmet_trim.png" while building texture; Creating a dummy image
+2025-07-21 00:52:51: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-07-21 00:54:22: ERROR[Main]: Acesso negado. Razão:This server has experienced an internal error. You will now be disconnected.
+2025-07-21 00:54:31: ERROR[Main]: Acesso negado. Razão:This server has experienced an internal error. You will now be disconnected.
+2025-07-21 01:04:46: ERROR[Main]: generateImagePart(): Could not load image "mcl_mobitems_lead.png" while building texture; Creating a dummy image
+2025-07-21 01:15:01: ERROR[Main]: generateImagePart(): Could not load image "mcl_mobitems_lead.png" while building texture; Creating a dummy image
+2025-07-21 01:19:00: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-07-21 01:21:03: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-21 01:40:02: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-21 01:47:07: ERROR[Main]: generateImagePart(): Could not load image "mcl_mobitems_lead.png" while building texture; Creating a dummy image
+2025-07-21 01:48:02: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-21 01:48:51: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+
+
+-------------
+  Separator
+-------------
+
+2025-07-21 17:20:56: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-21 17:22:09: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 88ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-21 19:01:21: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+
+
+-------------
+  Separator
+-------------
+
+2025-07-22 18:21:19: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+
+
+-------------
+  Separator
+-------------
+
+2025-07-22 19:04:24: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-22 19:04:39: ERROR[Main]: Erro de conexão (tempo excedido).
+2025-07-22 19:06:42: ERROR[Main]: Erro de conexão (tempo excedido).
+2025-07-22 19:44:17: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 176ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-22 23:40:44: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-22 23:40:54: ERROR[Main]: Acesso negado. Razão:Nome não registrado. Para criar uma conta neste servidor, clique em 'Registrar'
+2025-07-22 23:50:53: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-22 23:59:38: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-22 23:59:48: ERROR[Main]: Acesso negado. Razão:Nome não registrado. Para criar uma conta neste servidor, clique em 'Registrar'
+2025-07-23 00:02:09: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-23 01:26:40: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-23 01:33:19: WARNING[Main]: Irrlicht: PNG warning for i3_sort.png: iCCP: profile 'icc': 'RGB ': RGB color space not permitted on grayscale PNG
+2025-07-23 01:33:19: WARNING[Main]: Irrlicht: PNG warning for i3_skin.png: iCCP: profile 'icc': 'RGB ': RGB color space not permitted on grayscale PNG
+2025-07-23 01:33:19: WARNING[Main]: Irrlicht: PNG warning for i3_settings.png: iCCP: profile 'icc': 'RGB ': RGB color space not permitted on grayscale PNG
+2025-07-23 01:33:19: WARNING[Main]: Irrlicht: PNG warning for i3_search.png: iCCP: profile 'icc': 'RGB ': RGB color space not permitted on grayscale PNG
+2025-07-23 01:33:19: WARNING[Main]: Irrlicht: PNG warning for i3_refresh.png: iCCP: profile 'icc': 'RGB ': RGB color space not permitted on grayscale PNG
+2025-07-23 01:33:19: WARNING[Main]: Irrlicht: PNG warning for i3_next.png: iCCP: profile 'icc': 'RGB ': RGB color space not permitted on grayscale PNG
+2025-07-23 01:33:19: WARNING[Main]: Irrlicht: PNG warning for i3_waypoint.png: iCCP: profile 'icc': 'RGB ': RGB color space not permitted on grayscale PNG
+2025-07-23 01:33:19: WARNING[Main]: Irrlicht: PNG warning for i3_shapeless.png: iCCP: profile 'icc': 'RGB ': RGB color space not permitted on grayscale PNG
+2025-07-23 01:33:20: WARNING[Main]: Irrlicht: PNG warning for i3_compress.png: iCCP: profile 'icc': 'RGB ': RGB color space not permitted on grayscale PNG
+2025-07-23 01:33:20: WARNING[Main]: Irrlicht: PNG warning for i3_bag.png: iCCP: profile 'icc': 'RGB ': RGB color space not permitted on grayscale PNG
+2025-07-23 01:33:20: WARNING[Main]: Irrlicht: PNG warning for i3_home.png: iCCP: profile 'icc': 'RGB ': RGB color space not permitted on grayscale PNG
+2025-07-23 01:33:20: WARNING[Main]: Irrlicht: PNG warning for i3_visible.png: iCCP: profile 'icc': 'RGB ': RGB color space not permitted on grayscale PNG
+2025-07-23 01:33:20: WARNING[Main]: Irrlicht: PNG warning for i3_award.png: iCCP: profile 'icc': 'RGB ': RGB color space not permitted on grayscale PNG
+2025-07-23 01:33:20: WARNING[Main]: Irrlicht: PNG warning for i3_cancel.png: iCCP: profile 'icc': 'RGB ': RGB color space not permitted on grayscale PNG
+2025-07-23 01:33:20: WARNING[Main]: Irrlicht: PNG warning for i3_add.png: iCCP: profile 'icc': 'RGB ': RGB color space not permitted on grayscale PNG
+2025-07-23 01:33:20: WARNING[Main]: Irrlicht: PNG warning for i3_armor.png: iCCP: profile 'icc': 'RGB ': RGB color space not permitted on grayscale PNG
+2025-07-23 01:33:20: WARNING[Main]: Irrlicht: PNG warning for i3_bg_notif.png: bKGD: invalid index
+2025-07-23 01:33:20: WARNING[Main]: Irrlicht: PNG warning for i3_exit.png: iCCP: profile 'icc': 'RGB ': RGB color space not permitted on grayscale PNG
+2025-07-23 01:33:20: WARNING[Main]: Irrlicht: PNG warning for i3_armor_5.png: iCCP: profile 'icc': 'RGB ': RGB color space not permitted on grayscale PNG
+2025-07-23 01:33:20: WARNING[Main]: Irrlicht: PNG warning for i3_arrow_content.png: iCCP: profile 'icc': 'RGB ': RGB color space not permitted on grayscale PNG
+2025-07-23 01:33:20: WARNING[Main]: Irrlicht: PNG warning for i3_edit.png: iCCP: profile 'icc': 'RGB ': RGB color space not permitted on grayscale PNG
+2025-07-23 01:33:20: WARNING[Main]: Irrlicht: PNG warning for i3_fav_off.png: iCCP: profile 'icc': 'RGB ': RGB color space not permitted on grayscale PNG
+2025-07-23 01:33:20: WARNING[Main]: Irrlicht: PNG warning for i3_trash.png: iCCP: profile 'icc': 'RGB ': RGB color space not permitted on grayscale PNG
+2025-07-23 01:33:20: WARNING[Main]: Irrlicht: PNG warning for i3_non_visible.png: iCCP: profile 'icc': 'RGB ': RGB color space not permitted on grayscale PNG
+2025-07-23 01:38:28: ERROR[ConnectionSend]: con(3004/24739) dropped packet for non existent peer_id: 1
+2025-07-23 01:38:28: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-23 02:02:50: WARNING[Main]: Invalid model element: Not enough textures
+2025-07-23 02:02:50: WARNING[Main]: Invalid model element: Not enough textures
+2025-07-23 02:10:22: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-23 02:18:51: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-23 02:19:15: ERROR[Main]: generateImagePart(): Could not load image "ethereal_grass_bamboo_side.png" while building texture; Creating a dummy image
+2025-07-23 02:19:15: ERROR[Main]: generateImagePart(): Could not load image "ethereal_grass_bamboo_top.png" while building texture; Creating a dummy image
+2025-07-23 02:19:15: ERROR[Main]: generateImagePart(): Could not load image "ethereal_grass_bamboo_top.png" while building texture; Creating a dummy image
+2025-07-23 02:20:36: WARNING[Main]: Invalid model element: Not enough textures
+2025-07-23 02:20:36: WARNING[Main]: Invalid model element: Not enough textures
+2025-07-23 02:20:44: WARNING[Main]: Invalid model element: Not enough textures
+2025-07-23 02:20:44: WARNING[Main]: Invalid model element: Not enough textures
+2025-07-23 02:20:45: WARNING[Main]: Invalid model element: Not enough textures
+2025-07-23 02:20:45: WARNING[Main]: Invalid model element: Not enough textures
+2025-07-23 02:20:57: WARNING[Main]: Invalid model element: Not enough textures
+2025-07-23 02:20:57: WARNING[Main]: Invalid model element: Not enough textures
+2025-07-23 02:20:58: WARNING[Main]: Invalid model element: Not enough textures
+2025-07-23 02:20:58: WARNING[Main]: Invalid model element: Not enough textures
+2025-07-23 02:23:43: ERROR[Main]: Acesso negado. Razão:This server has experienced an internal error. You will now be disconnected.
+2025-07-23 02:24:05: ACTION[ServerStart]: [MOD] Animalia [0.6] loaded
+2025-07-23 02:24:09: ACTION[ServerStart]: [mcl_villages]: Loaded 0 points of interest in 0 ms
+2025-07-23 02:24:12: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 96ms
+2025-07-23 02:24:42: ACTION[ServerStart]: World at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-23 02:24:42: ACTION[ServerStart]: Server for gameid="mineclonia" listening on 127.0.0.1:56039.
+2025-07-23 02:24:42: WARNING[Server]: [mcl_craftguide] ingredient "farming:string" doesn't exist
+2025-07-23 02:24:42: WARNING[Server]: [mcl_craftguide] ingredient "farming:string" doesn't exist
+2025-07-23 02:24:42: WARNING[Server]: [mcl_craftguide] ingredient "default:steel_ingot" doesn't exist
+2025-07-23 02:24:42: WARNING[Server]: [mcl_craftguide] ingredient "farming:string" doesn't exist
+2025-07-23 02:24:42: WARNING[Server]: [mcl_craftguide] ingredient "default:steel_ingot" doesn't exist
+2025-07-23 02:24:42: WARNING[Server]: [mcl_craftguide] ingredient "farming:string" doesn't exist
+2025-07-23 02:24:42: WARNING[Server]: [mcl_craftguide] ingredient "default:steel_ingot" doesn't exist
+2025-07-23 02:24:42: ACTION[ServerStop]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2025-07-23 02:25:49: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-23 02:25:53: ACTION[ServerStart]: [MOD] Animalia [0.6] loaded
+2025-07-23 02:25:54: ACTION[ServerStart]: [mcl_villages]: Loaded 0 points of interest in 0 ms
+2025-07-23 02:25:57: ACTION[ServerStart]: World at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-23 02:25:57: ACTION[ServerStart]: Server for gameid="mineclonia" listening on 127.0.0.1:60074.
+2025-07-23 02:25:57: WARNING[Server]: [mcl_craftguide] ingredient "default:steel_ingot" doesn't exist
+2025-07-23 02:25:57: WARNING[Server]: [mcl_craftguide] ingredient "farming:string" doesn't exist
+2025-07-23 02:25:57: WARNING[Server]: [mcl_craftguide] ingredient "default:steel_ingot" doesn't exist
+2025-07-23 02:25:57: WARNING[Server]: [mcl_craftguide] ingredient "farming:string" doesn't exist
+2025-07-23 02:25:57: WARNING[Server]: [mcl_craftguide] ingredient "farming:string" doesn't exist
+2025-07-23 02:25:57: WARNING[Server]: [mcl_craftguide] ingredient "default:steel_ingot" doesn't exist
+2025-07-23 02:25:57: WARNING[Server]: [mcl_craftguide] ingredient "farming:string" doesn't exist
+2025-07-23 02:26:05: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-07-23 02:26:07: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-07-23 02:26:32: WARNING[Server]: Reading initial object properties directly from an entity definition is deprecated, move it to the 'initial_properties' table instead. (Property 'physical' in entity 'animalia:wolf')
+2025-07-23 02:26:32: ACTION[Server]: [Creatura] [ABM Spawning] Spawned 3 animalia:wolf at (-23,5,51)
+2025-07-23 02:26:32: WARNING[Server]: Deprecated call to get_bone_position, use get_bone_override instead (at C:\Game\luanti-5.12.0-win64\mods\animalia/api/api.lua:121)
+2025-07-23 02:26:32: WARNING[Server]: Deprecated call to set_bone_position, use set_bone_override instead (at C:\Game\luanti-5.12.0-win64\mods\animalia/api/api.lua:138)
+2025-07-23 02:26:33: WARNING[Server]: ServerEnvironment::deactivateFarObjects(): id=743 m_static_exists=true but static data doesn't actually exist in (-6,-4,-1)
+2025-07-23 02:26:33: WARNING[Server]: StaticObjectList::remove(): id=743 not found
+2025-07-23 02:26:33: WARNING[Server]: ServerEnvironment::deactivateFarObjects(): id=744 m_static_exists=true but static data doesn't actually exist in (-6,-4,-2)
+2025-07-23 02:26:33: WARNING[Server]: StaticObjectList::remove(): id=744 not found
+2025-07-23 02:26:33: WARNING[Server]: ServerEnvironment::deactivateFarObjects(): id=745 m_static_exists=true but static data doesn't actually exist in (-2,-6,-3)
+2025-07-23 02:26:33: WARNING[Server]: StaticObjectList::remove(): id=745 not found
+2025-07-23 02:26:33: WARNING[Server]: ServerEnvironment::deactivateFarObjects(): id=746 m_static_exists=true but static data doesn't actually exist in (-3,-4,1)
+2025-07-23 02:26:33: WARNING[Server]: StaticObjectList::remove(): id=746 not found
+2025-07-23 02:26:33: WARNING[Server]: ServerEnvironment::deactivateFarObjects(): id=753 m_static_exists=true but static data doesn't actually exist in (-8,-7,-2)
+2025-07-23 02:26:33: WARNING[Server]: StaticObjectList::remove(): id=753 not found
+2025-07-23 02:26:33: WARNING[Server]: ServerEnvironment::deactivateFarObjects(): id=754 m_static_exists=true but static data doesn't actually exist in (-8,-7,-1)
+2025-07-23 02:26:33: WARNING[Server]: StaticObjectList::remove(): id=754 not found
+2025-07-23 02:26:33: WARNING[Server]: ServerEnvironment::deactivateFarObjects(): id=755 m_static_exists=true but static data doesn't actually exist in (-3,-5,-1)
+2025-07-23 02:26:33: WARNING[Server]: StaticObjectList::remove(): id=755 not found
+2025-07-23 02:26:33: WARNING[Server]: ServerEnvironment::deactivateFarObjects(): id=756 m_static_exists=true but static data doesn't actually exist in (-3,-5,-1)
+2025-07-23 02:26:33: WARNING[Server]: StaticObjectList::remove(): id=756 not found
+2025-07-23 02:26:33: WARNING[Server]: ServerEnvironment::deactivateFarObjects(): id=757 m_static_exists=true but static data doesn't actually exist in (-3,-5,-1)
+2025-07-23 02:26:33: WARNING[Server]: StaticObjectList::remove(): id=757 not found
+2025-07-23 02:28:01: WARNING[Server]: Reading initial object properties directly from an entity definition is deprecated, move it to the 'initial_properties' table instead. (Property 'physical' in entity 'animalia:grizzly_bear')
+2025-07-23 02:28:01: ACTION[Server]: [Creatura] [ABM Spawning] Spawned 1 animalia:grizzly_bear at (18,2,-43)
+2025-07-23 02:28:25: WARNING[Server]: Reading initial object properties directly from an entity definition is deprecated, move it to the 'initial_properties' table instead. (Property 'physical' in entity 'animalia:reindeer')
+2025-07-23 02:28:25: ACTION[Server]: [Creatura] [ABM Spawning] Spawned 6 animalia:reindeer at (35,5,-33)
+2025-07-23 02:30:02: ACTION[Server]: [Creatura] [ABM Spawning] Spawned 3 animalia:wolf at (4,10,55)
+2025-07-23 02:30:02: ACTION[Server]: [Creatura] [ABM Spawning] Spawned 2 animalia:wolf at (38,4,42)
+2025-07-23 02:31:06: WARNING[Server]: Reading initial object properties directly from an entity definition is deprecated, move it to the 'initial_properties' table instead. (Property 'physical' in entity 'animalia:fox')
+2025-07-23 02:31:06: ACTION[Server]: [Creatura] [ABM Spawning] Spawned 1 animalia:fox at (40,6,-12)
+2025-07-23 02:32:02: [Server]: [mcl_craftguide] not saving empty progress for player 'singleplayer'
+2025-07-23 02:32:02: ACTION[Server]: singleplayer leaves game. List of players: 
+2025-07-23 02:32:02: ACTION[ServerStop]: Server: Shutting down
+2025-07-23 02:44:26: ERROR[Main]: Acesso negado. Razão:Senha inválida
+2025-07-23 02:44:36: ERROR[Main]: generateImagePart(): Could not load image "ethereal_grass_bamboo_side.png" while building texture; Creating a dummy image
+2025-07-23 02:44:36: ERROR[Main]: generateImagePart(): Could not load image "ethereal_grass_bamboo_top.png" while building texture; Creating a dummy image
+2025-07-23 02:44:36: ERROR[Main]: generateImagePart(): Could not load image "ethereal_grass_bamboo_top.png" while building texture; Creating a dummy image
+2025-07-23 03:20:53: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 58ms
+2025-07-23 03:58:41: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-23 04:15:01: ERROR[Main]: Não foi possível resolver o endereço:Este geralmente � um erro tempor�rio durante a resolu��o do nome do host e significa que o servidor local n�o recebeu uma resposta de um servidor autorizado. 
+2025-07-23 04:20:32: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-23 04:27:13: WARNING[Main]: GenericCAO::addToScene(): Model mcl_armor_character.b3d is missing 1 more texture(s), this is deprecated.
+2025-07-23 04:29:47: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-23 04:31:22: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 61ms
+2025-07-23 04:33:52: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-07-23 04:34:08: ERROR[Main]: Não foi possível resolver o endereço:Este geralmente � um erro tempor�rio durante a resolu��o do nome do host e significa que o servidor local n�o recebeu uma resposta de um servidor autorizado. 
+2025-07-23 04:37:11: ERROR[Main]: Erro de conexão (tempo excedido).
+2025-07-23 04:37:18: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 110ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-23 13:05:07: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-23 13:06:00: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 96ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-23 13:19:21: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-23 13:28:57: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-23 13:38:42: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 1874ms
+2025-07-23 13:38:42: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 364ms
+2025-07-23 13:38:42: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 116ms
+2025-07-23 14:51:32: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 226ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-23 15:05:39: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-23 15:05:56: WARNING[OpenALSoundManager]: OpenALSoundManager::createPlayingSound: Creating positional stereo sound "creatura_hit_3.ogg".
+2025-07-23 15:05:56: WARNING[OpenALSoundManager]: OpenALSoundManager::createPlayingSound: Creating positional stereo sound "creatura_hit_2.ogg".
+2025-07-23 15:05:57: WARNING[OpenALSoundManager]: OpenALSoundManager::createPlayingSound: Creating positional stereo sound "creatura_hit_1.ogg".
+2025-07-23 15:07:07: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-07-23 15:10:15: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 202ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-23 15:14:36: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-23 15:15:13: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-07-23 15:18:23: WARNING[OpenALSoundManager]: OpenALSoundManager::createPlayingSound: Creating positional stereo sound "creatura_hit_2.ogg".
+2025-07-23 15:18:34: WARNING[OpenALSoundManager]: OpenALSoundManager::createPlayingSound: Creating positional stereo sound "creatura_hit_3.ogg".
+2025-07-23 15:19:34: WARNING[OpenALSoundManager]: OpenALSoundManager::createPlayingSound: Creating positional stereo sound "creatura_hit_1.ogg".
+2025-07-23 15:41:12: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 216ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-23 16:38:40: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-23 16:40:49: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 65ms
+2025-07-23 16:58:53: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-07-23 17:23:00: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-23 17:38:34: ERROR[Main]: Acesso negado. Razão:This server has experienced an internal error. You will now be disconnected.
+2025-07-23 18:37:30: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-23 18:38:00: ERROR[Main]: generateImagePart(): Could not load image "runa_guardia.png" while building texture; Creating a dummy image
+2025-07-23 18:38:01: ERROR[Main]: Acesso negado. Razão:This server has experienced an internal error. You will now be disconnected.
+2025-07-23 19:14:21: ERROR[Main]: generateImagePart(): Could not load image "runa_guardia.png" while building texture; Creating a dummy image
+2025-07-23 19:14:47: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 92ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-23 19:14:51: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-23 19:14:57: ERROR[Main]: Acesso negado. Razão:Senha inválida
+2025-07-23 19:15:06: ERROR[Main]: generateImagePart(): Could not load image "runa_guardia.png" while building texture; Creating a dummy image
+2025-07-23 19:16:27: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-07-23 19:24:57: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-07-23 19:41:27: ERROR[CurlFetch]: HTTPFetch for https://servers.luanti.org/list?proto_version_min=37&proto_version_max=48 failed: Timeout was reached (timeout = 20000ms)
+2025-07-23 19:41:27: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 95ms
+2025-07-23 19:46:20: WARNING[Main]: GenericCAO::addToScene(): Model mcl_armor_character.b3d is missing 1 more texture(s), this is deprecated.
+2025-07-23 20:29:36: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 126ms
+2025-07-23 20:36:29: WARNING[Main]: GenericCAO::addToScene(): Model amc_banner_hanging.b3d is missing 2 more texture(s), this is deprecated.
+
+
+-------------
+  Separator
+-------------
+
+2025-07-23 22:46:58: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-23 22:47:15: WARNING[Main]: GenericCAO::addToScene(): Model amc_banner_hanging.b3d is missing 2 more texture(s), this is deprecated.
+2025-07-23 22:47:19: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-07-23 23:01:13: WARNING[Main]: collisionMoveSimple: maximum step interval exceeded, lost movement details!
+2025-07-23 23:01:14: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 213ms
+2025-07-23 23:01:41: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-07-23 23:08:45: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-07-23 23:18:54: ERROR[Main]: Acesso negado. Razão:This server has experienced an internal error. You will now be disconnected.
+2025-07-23 23:52:37: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 80ms
+
+
+-------------
+  Separator
+-------------
+
+
+
+-------------
+  Separator
+-------------
+
+2025-07-26 11:33:19: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-26 11:33:19: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-26 11:33:35: WARNING[Main]: AsyncEngine: 1 jobs seem to be stuck in queue (2 workers active)
+2025-07-26 11:34:37: WARNING[Main]: GenericCAO::addToScene(): Model amc_banner_hanging.b3d is missing 2 more texture(s), this is deprecated.
+2025-07-26 11:34:59: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-07-26 11:35:29: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 219ms
+2025-07-26 11:35:31: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 126ms
+2025-07-26 20:01:44: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 126ms
+2025-07-26 20:01:48: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 223ms
+
+
+-------------
+  Separator
+-------------
+
+2025-07-29 19:50:22: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-29 19:50:38: WARNING[Main]: AsyncEngine: 1 jobs seem to be stuck in queue (2 workers active)
+2025-07-29 19:50:46: ERROR[CurlFetch]: HTTPFetch for https://servers.luanti.org/list?proto_version_min=37&proto_version_max=48 failed: Timeout was reached (timeout = 20000ms)
+
+
+-------------
+  Separator
+-------------
+
+2025-07-30 23:55:09: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-07-31 17:15:53: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 3732924ms
+2025-07-31 18:11:37: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 225ms
+
+
+-------------
+  Separator
+-------------
+
+2025-08-01 20:36:02: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-08-01 20:36:27: WARNING[Main]: GenericCAO::addToScene(): Model amc_banner_hanging.b3d is missing 2 more texture(s), this is deprecated.
+2025-08-01 20:37:39: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-08-01 21:23:23: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 107ms
+2025-08-01 21:28:28: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 107ms
+2025-08-01 21:33:30: WARNING[Main]: GenericCAO::addToScene(): Model mcl_armor_character.b3d is missing 1 more texture(s), this is deprecated.
+2025-08-01 21:36:47: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 50ms
+
+
+-------------
+  Separator
+-------------
+
+2025-08-02 20:58:31: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+
+
+-------------
+  Separator
+-------------
+
+2025-08-02 20:58:31: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-08-02 20:58:57: ERROR[Main]: generateImagePart(): invalid tile position (X,Y) for part_of_name="[sheet:4x4:1,4", cancelling.
+2025-08-02 20:58:57: ERROR[Main]: generateImage(): Failed to generate "[sheet:4x4:1,4"
+2025-08-02 20:58:57: ERROR[Main]: part of texture "animalia_poultry_raw.png^[sheet:4x4:1,4"
+2025-08-02 20:59:22: WARNING[Main]: GenericCAO::addToScene(): Model mcl_armor_character.b3d is missing 1 more texture(s), this is deprecated.
+2025-08-02 21:03:54: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-08-02 21:08:24: WARNING[Main]: GenericCAO::addToScene(): Model amc_banner_hanging.b3d is missing 2 more texture(s), this is deprecated.
+2025-08-02 21:17:06: ERROR[Main]: Acesso negado. Razão:This server has experienced an internal error. You will now be disconnected.
+2025-08-02 21:24:38: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 80ms
+2025-08-02 21:24:38: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 102ms
+2025-08-02 21:38:35: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_strider.b3d is missing 1 more texture(s), this is deprecated.
+2025-08-03 10:37:16: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 383ms
+2025-08-03 10:37:16: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 397ms
+2025-08-03 10:37:18: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 59ms
+2025-08-03 10:37:41: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-08-03 10:37:46: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 51ms
+2025-08-03 10:37:51: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 129ms
+2025-08-03 10:41:10: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 58ms
+2025-08-03 10:41:29: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 120ms
+2025-08-03 10:41:29: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 92ms
+2025-08-03 10:41:37: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 80ms
+
+
+-------------
+  Separator
+-------------
+
+2025-08-13 21:09:20: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-08-13 21:09:29: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 222ms
+
+
+-------------
+  Separator
+-------------
+
+2025-09-02 21:29:18: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Test]
+2025-09-02 21:37:18: ERROR[Main]: RecursiveDelete: Failed to delete file C:\Game\luanti-5.12.0-win64\mods\leads
+2025-09-02 21:37:18: ACTION[Main]: Installed package to C:\Game\luanti-5.12.0-win64\mods\leads
+2025-09-02 21:40:00: ACTION[Main]: Installed package to C:\Game\luanti-5.12.0-win64\bin\..\games\mineclonia
+2025-09-02 21:40:31: ACTION[ServerStart]: [MOD] Animalia [0.6] loaded
+2025-09-02 21:40:31: ACTION[ServerStart]: [mcl_villages]: World was upgraded or is pristine.
+2025-09-02 21:40:36: ACTION[ServerStart]: World at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Filhas]
+2025-09-02 21:40:36: ACTION[ServerStart]: Server for gameid="mineclonia" listening on 127.0.0.1:63583.
+2025-09-02 21:40:36: WARNING[Server]: [mcl_craftguide] ingredient "default:steel_ingot" doesn't exist
+2025-09-02 21:40:36: WARNING[Server]: [mcl_craftguide] ingredient "farming:string" doesn't exist
+2025-09-02 21:40:36: WARNING[Server]: [mcl_craftguide] ingredient "default:steel_ingot" doesn't exist
+2025-09-02 21:40:36: WARNING[Server]: [mcl_craftguide] ingredient "farming:string" doesn't exist
+2025-09-02 21:40:36: WARNING[Server]: [mcl_craftguide] ingredient "farming:string" doesn't exist
+2025-09-02 21:40:36: WARNING[Server]: [mcl_craftguide] ingredient "farming:string" doesn't exist
+2025-09-02 21:40:36: WARNING[Server]: [mcl_craftguide] ingredient "default:steel_ingot" doesn't exist
+2025-09-02 21:40:48: ACTION[Server]: singleplayer [127.0.0.1] joins game. List of players: singleplayer
+2025-09-02 21:40:58: WARNING[Server]: Reading initial object properties directly from an entity definition is deprecated, move it to the 'initial_properties' table instead. (Property 'physical' in entity 'animalia:fox')
+2025-09-02 21:40:58: ACTION[Server]: [Creatura] [ABM Spawning] Spawned 1 animalia:fox at (15,18,17)
+2025-09-02 21:40:58: WARNING[Server]: Deprecated call to get_bone_position, use get_bone_override instead (at C:\Game\luanti-5.12.0-win64\mods\animalia/api/api.lua:121)
+2025-09-02 21:40:58: WARNING[Server]: Deprecated call to set_bone_position, use set_bone_override instead (at C:\Game\luanti-5.12.0-win64\mods\animalia/api/api.lua:138)
+2025-09-02 21:41:14: WARNING[Server]: Reading initial object properties directly from an entity definition is deprecated, move it to the 'initial_properties' table instead. (Property 'physical' in entity 'animalia:song_bird')
+2025-09-02 21:41:14: ACTION[Server]: [Creatura] [ABM Spawning] Spawned 7 animalia:song_bird at (12,57,-52)
+2025-09-02 21:41:19: WARNING[Server]: Reading initial object properties directly from an entity definition is deprecated, move it to the 'initial_properties' table instead. (Property 'physical' in entity 'animalia:turkey')
+2025-09-02 21:41:19: ACTION[Server]: [Creatura] [ABM Spawning] Spawned 3 animalia:turkey at (-24,42,-69)
+2025-09-02 21:41:19: ACTION[Server]: [Creatura] [ABM Spawning] Spawned 4 animalia:turkey at (-23,16,-2)
+2025-09-02 21:41:26: [Server]: [mcl_craftguide] not saving empty progress for player 'singleplayer'
+2025-09-02 21:41:26: ACTION[Server]: singleplayer leaves game. List of players: 
+2025-09-02 21:41:26: ACTION[ServerStop]: Server: Shutting down
+2025-09-02 21:41:42: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 144ms
+2025-09-02 22:07:45: ERROR[Main]: Erro de conexão (tempo excedido).
+2025-09-02 22:09:15: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-09-02 22:15:48: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 60ms
+2025-09-02 22:22:40: ERROR[Main]: Acesso negado. Razão:This server has experienced an internal error. You will now be disconnected.
+2025-09-02 22:25:42: ERROR[Main]: Acesso negado. Razão:This server has experienced an internal error. You will now be disconnected.
+2025-09-02 22:25:51: ERROR[Main]: Acesso negado. Razão:Nome não registrado. Para criar uma conta neste servidor, clique em 'Registrar'
+2025-09-02 22:30:50: ERROR[Main]: Acesso negado. Razão:Nome não registrado. Para criar uma conta neste servidor, clique em 'Registrar'
+2025-09-02 22:30:55: ERROR[Main]: Acesso negado. Razão:Nome não registrado. Para criar uma conta neste servidor, clique em 'Registrar'
+2025-09-02 22:44:36: ERROR[Main]: Acesso negado. Razão:Server shutting down.
+2025-09-02 23:11:49: ERROR[Main]: Erro de conexão (tempo excedido).
+2025-09-02 23:12:25: ERROR[Main]: Acesso negado. Razão:Senha inválida
+2025-09-02 23:32:16: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+
+
+-------------
+  Separator
+-------------
+
+2025-09-03 23:52:33: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Filhas]
+2025-09-03 23:52:54: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-09-04 00:02:20: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-09-04 00:02:34: ERROR[Main]: Acesso negado. Razão:Outro cliente está conectado com este nome. Se o seu cliente fechou inesperadamente, tente novamente em um minuto.
+2025-09-04 00:02:45: ERROR[Main]: Acesso negado. Razão:Outro cliente está conectado com este nome. Se o seu cliente fechou inesperadamente, tente novamente em um minuto.
+2025-09-04 00:02:59: ERROR[Main]: Acesso negado. Razão:Outro cliente está conectado com este nome. Se o seu cliente fechou inesperadamente, tente novamente em um minuto.
+2025-09-04 00:04:23: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 120ms
+
+
+-------------
+  Separator
+-------------
+
+2025-09-11 21:03:24: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Filhas]
+2025-09-11 21:03:56: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-09-11 22:38:55: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 86ms
+
+
+-------------
+  Separator
+-------------
+
+2025-09-13 22:32:24: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Filhas]
+2025-09-13 22:33:45: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-09-13 22:34:27: ERROR[Main]: Erro de conexão (tempo excedido).
+2025-09-13 22:37:43: ERROR[Main]: Não foi possível resolver o endereço:Este host n�o � conhecido. 
+2025-09-13 22:38:14: ERROR[Main]: Não foi possível resolver o endereço:Este host n�o � conhecido. 
+2025-09-13 22:38:36: ERROR[Main]: Erro de conexão (tempo excedido).
+2025-09-13 22:39:14: ERROR[Main]: Erro de conexão (tempo excedido).
+2025-09-13 22:44:41: ERROR[Main]: Erro de conexão (tempo excedido).
+2025-09-13 22:51:25: WARNING[OpenALSoundManager]: OpenALSoundManager::createPlayingSound: Creating positional stereo sound "animalia_horse_idle.3.ogg".
+2025-09-13 22:51:41: WARNING[OpenALSoundManager]: OpenALSoundManager::createPlayingSound: Creating positional stereo sound "animalia_horse_idle.2.ogg".
+2025-09-13 22:52:21: WARNING[OpenALSoundManager]: OpenALSoundManager::createPlayingSound: Creating positional stereo sound "animalia_horse_idle.1.ogg".
+2025-09-13 22:55:14: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-09-13 22:59:17: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 126ms
+2025-09-13 23:00:17: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 127ms
+2025-09-13 23:03:30: WARNING[OpenALSoundManager]: OpenALSoundManager::createPlayingSound: Creating positional stereo sound "animalia_horse_idle.2.ogg".
+2025-09-13 23:11:13: ERROR[Main]: Acesso negado. Razão:Erro de conexão (tempo excedido).
+2025-09-13 23:15:34: WARNING[OpenALSoundManager]: OpenALSoundManager::createPlayingSound: Creating positional stereo sound "animalia_horse_idle.2.ogg".
+2025-09-13 23:15:49: WARNING[OpenALSoundManager]: OpenALSoundManager::createPlayingSound: Creating positional stereo sound "animalia_horse_idle.3.ogg".
+2025-09-13 23:16:37: WARNING[OpenALSoundManager]: OpenALSoundManager::createPlayingSound: Creating positional stereo sound "animalia_horse_idle.1.ogg".
+2025-09-13 23:24:29: ERROR[Main]: Acesso negado. Razão:Senha inválida
+2025-09-13 23:27:15: WARNING[OpenALSoundManager]: OpenALSoundManager::createPlayingSound: Creating positional stereo sound "animalia_horse_idle.1.ogg".
+2025-09-13 23:27:40: WARNING[OpenALSoundManager]: OpenALSoundManager::createPlayingSound: Creating positional stereo sound "animalia_horse_idle.3.ogg".
+2025-09-13 23:36:24: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-09-13 23:37:02: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 88ms
+2025-09-14 00:18:57: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 203ms
+
+
+-------------
+  Separator
+-------------
+
+2025-09-17 22:39:28: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Filhas]
+2025-09-17 22:40:10: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-09-17 22:53:40: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 65ms
+
+
+-------------
+  Separator
+-------------
+
+2025-09-23 20:23:25: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Filhas]
+2025-09-23 20:44:57: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-09-23 21:22:49: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 77ms
+
+
+-------------
+  Separator
+-------------
+
+2025-09-24 11:03:30: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Filhas]
+2025-09-24 11:03:33: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 96ms
+
+
+-------------
+  Separator
+-------------
+
+2025-09-24 11:03:55: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Filhas]
+2025-09-24 11:04:00: ERROR[Main]: Acesso negado. Razão:Senha inválida
+2025-09-24 11:05:53: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-09-24 11:11:12: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 156ms
+
+
+-------------
+  Separator
+-------------
+
+2025-09-24 11:16:46: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Filhas]
+2025-09-24 11:16:52: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 74ms
+
+
+-------------
+  Separator
+-------------
+
+2025-10-02 03:15:07: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Filhas]
+2025-10-02 03:16:04: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-10-02 03:16:16: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 150ms
+
+
+-------------
+  Separator
+-------------
+
+2025-10-03 21:51:38: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Filhas]
+2025-10-03 21:53:07: WARNING[Main]: GenericCAO::addToScene(): Model extra_mobs_salmon.b3d is missing 12 more texture(s), this is deprecated.
+2025-10-03 21:53:09: ERROR[Main]: Acesso negado. Razão:Erro de conexão (protocolo errado?).
+2025-10-03 22:17:09: WARNING[Main]: Irrlicht: SDL_PollEvent took too long: 83ms
+
+
+-------------
+  Separator
+-------------
+
+2025-10-04 01:13:41: [Main]: Automatically selecting world at [C:\Game\luanti-5.12.0-win64\bin\..\worlds\Filhas]

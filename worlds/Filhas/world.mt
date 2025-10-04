@@ -1,0 +1,12 @@
+enable_damage = false
+creative_mode = false
+mod_storage_backend = sqlite3
+auth_backend = sqlite3
+backend = sqlite3
+player_backend = sqlite3
+gameid = mineclonia
+world_name = Filhas
+server_announce = false
+load_mod_leads = mods/leads
+load_mod_animalia = mods/animalia
+load_mod_creatura = mods/creatura

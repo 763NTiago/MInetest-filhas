@@ -1,0 +1,29 @@
+# textdomain: mcl_inventory
+Auto (use scroll bar if client version >@= 5.11)=
+Off (use paging buttons, much better performance on client < 5.11)=
+On (more MC like experience, may be sluggish on client < 5.11)=
+Enable scroll bar on creative inventory=
+Building Blocks=建築ブロック
+Decoration Blocks=装飾ブロック
+Redstone=レッドストーン
+Transportation=運送
+Miscellaneous=その他
+Search Items=アイテム検索
+Foodstuffs=食物
+Tools=道具
+Combat=戦闘
+Mobs=Mob
+Brewing=醸造
+Materials=素材
+Survival Inventory=サバイバル インベントリ
+Not in Creative Inventory=
+Switch stack size=スタックサイズを変更します
+@1 / @2=@1 / @2
+Recipe book=レシピ本
+Help=ヘルプ
+Advancements=進捗
+Player settings=
+Return to player inventory=
+Crafting table out of range!=
+Crafting=クラフト
+Fill Craft Grid=
